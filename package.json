@@ -1,0 +1,26 @@
+{
+  "name": "ai-chatbot",
+  "version": "1.0.0",
+  "description": "Project - A Simple AI Chatbot With Web Speech API And Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Watson6982/ai-chatbot.git"
+  },
+  "keywords": [],
+  "author": "Josh Watson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Watson6982/ai-chatbot/issues"
+  },
+  "homepage": "https://github.com/Watson6982/ai-chatbot#readme",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3"
+  }
+}
